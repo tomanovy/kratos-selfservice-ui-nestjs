@@ -1862,7 +1862,7 @@
         "affectsGlobalScope": false
       },
       "../src/main.ts": {
-        "version": "06f64ec90995338a5bae9701f91282355acbe942b8eb0083ec8e705634810b46",
+        "version": "efd056e0e1684e73c07cf99cc3be4ecd36f6ea8f63d6eabd87a413462ef9c57b",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
         "affectsGlobalScope": false
       },
@@ -5283,8 +5283,7 @@
       "../src/app.controller.ts",
       "../src/app.module.ts",
       "../src/app.service.ts",
-      "../src/health/health.controller.ts",
-      "../src/main.ts"
+      "../src/health/health.controller.ts"
     ]
   },
   "version": "4.2.4"
