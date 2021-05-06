@@ -1686,6 +1686,186 @@
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
         "affectsGlobalScope": false
       },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator-result.interface.d.ts": {
+        "version": "169f5026e58f89dce34088e6cb96fe30d90108cba506a56587064a9f42b8eea3",
+        "signature": "169f5026e58f89dce34088e6cb96fe30d90108cba506a56587064a9f42b8eea3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts": {
+        "version": "a9e32ef9ab45b91a5fcd46eece63118677b624d0ab356c5dd84ae513a95efc08",
+        "signature": "a9e32ef9ab45b91a5fcd46eece63118677b624d0ab356c5dd84ae513a95efc08",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/dns/dns.health.d.ts": {
+        "version": "434b6ab4a80a965e9960b668ee7edf39942d3197c84930b6040d2873c8631ad3",
+        "signature": "434b6ab4a80a965e9960b668ee7edf39942d3197c84930b6040d2873c8631ad3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/http/http.health.d.ts": {
+        "version": "9909663b62e08ab7c3b69ee3df6399c88ee7ee698b6e62e7d724f001e18da834",
+        "signature": "9909663b62e08ab7c3b69ee3df6399c88ee7ee698b6e62e7d724f001e18da834",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/mongoose.health.d.ts": {
+        "version": "fd005e08e1832c01ccda64f997a8df17fb14418a0a79b4facaacc8b73f141a67",
+        "signature": "fd005e08e1832c01ccda64f997a8df17fb14418a0a79b4facaacc8b73f141a67",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/typeorm.health.d.ts": {
+        "version": "fa6d4f8a378f783ad860f9fcc6c272741380f95babd2c31e8f959364927c3457",
+        "signature": "fa6d4f8a378f783ad860f9fcc6c272741380f95babd2c31e8f959364927c3457",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/sequelize.health.d.ts": {
+        "version": "bf7e2265705d4f39d92840e2eb3f19c080da5b245c4b2802f1bff68f51fc0c2e",
+        "signature": "bf7e2265705d4f39d92840e2eb3f19c080da5b245c4b2802f1bff68f51fc0c2e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/utils/promise-timeout.d.ts": {
+        "version": "51d39be06826ed1e79f6f9c7ac8938a67aa820b3d5ec8d60076bd8e8415c09b8",
+        "signature": "51d39be06826ed1e79f6f9c7ac8938a67aa820b3d5ec8d60076bd8e8415c09b8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/utils/checkPackage.util.d.ts": {
+        "version": "5376c8977d225bac4756e0b17c13c3839c641a61a6e2af98249f1db630d2d0d6",
+        "signature": "5376c8977d225bac4756e0b17c13c3839c641a61a6e2af98249f1db630d2d0d6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/utils/types.d.ts": {
+        "version": "35ef0961cb2a19591b6411ff29ee378dce14d49dc460c939a45367a539fd5c4f",
+        "signature": "35ef0961cb2a19591b6411ff29ee378dce14d49dc460c939a45367a539fd5c4f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/utils/index.d.ts": {
+        "version": "ff26b2d3422c7d5945875fe39138e757cc6bdbb4bf6be5fcf4bdc3f8ebc1c80e",
+        "signature": "ff26b2d3422c7d5945875fe39138e757cc6bdbb4bf6be5fcf4bdc3f8ebc1c80e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/microservice.health.d.ts": {
+        "version": "c9f82fefe3efa14178a56c97335ddeef089e2723f0a5c9403aa552c76c1c39ba",
+        "signature": "c9f82fefe3efa14178a56c97335ddeef089e2723f0a5c9403aa552c76c1c39ba",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/grpc.health.d.ts": {
+        "version": "d61f4bdcc6eeb50026c783c8e6a2fc276b04df4b069bde1b6f94e70d4e2e181d",
+        "signature": "d61f4bdcc6eeb50026c783c8e6a2fc276b04df4b069bde1b6f94e70d4e2e181d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/check-disk-space/typings/index.d.ts": {
+        "version": "9e18a4214c1f006c517cd1d6fe4fc0300a637c61049f712276055c96765ecb5d",
+        "signature": "9e18a4214c1f006c517cd1d6fe4fc0300a637c61049f712276055c96765ecb5d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk-health-options.type.d.ts": {
+        "version": "6a9be080592a8676f105dd0f26c1f69f3a1ae22ed2e0692ba54899559fab47d7",
+        "signature": "6a9be080592a8676f105dd0f26c1f69f3a1ae22ed2e0692ba54899559fab47d7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk.health.d.ts": {
+        "version": "a24493f2809e0a4594dd03a6d79eeca725cd2737812ea6df0788c911c93377dd",
+        "signature": "a24493f2809e0a4594dd03a6d79eeca725cd2737812ea6df0788c911c93377dd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/index.d.ts": {
+        "version": "8489e6bf971f080f5b1a03449eaf43be4666136af59ba30570017f6f94f9df06",
+        "signature": "8489e6bf971f080f5b1a03449eaf43be4666136af59ba30570017f6f94f9df06",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/memory/memory.health.d.ts": {
+        "version": "2e8018faa524a11335ebe6af80ad0647740cf4a6532eb398893ed82566c02c31",
+        "signature": "2e8018faa524a11335ebe6af80ad0647740cf4a6532eb398893ed82566c02c31",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/memory/index.d.ts": {
+        "version": "1d9a6808bedb77761843b97fe37035f9508795d054f154f61ea36f445de0e9fe",
+        "signature": "1d9a6808bedb77761843b97fe37035f9508795d054f154f61ea36f445de0e9fe",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts": {
+        "version": "300efed423a459f3c6a3d603b8fdb7df9963441259fd92be3f3f8c8123492367",
+        "signature": "300efed423a459f3c6a3d603b8fdb7df9963441259fd92be3f3f8c8123492367",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts": {
+        "version": "35aa16fdee2a9f69b6b820b589ca2ff831f29e03967a4054499a0dbba855982f",
+        "signature": "35aa16fdee2a9f69b6b820b589ca2ff831f29e03967a4054499a0dbba855982f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/terminus-module-options.interface.d.ts": {
+        "version": "5bb4f6a4a45d07cfcbbd3e30960b673a4212878f809074b998cc7d67137f78f6",
+        "signature": "5bb4f6a4a45d07cfcbbd3e30960b673a4212878f809074b998cc7d67137f78f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/terminus.module.d.ts": {
+        "version": "733615facee883fd93827501dc36bca5b308c9ae32f3fd5d65680adc41d6ea9d",
+        "signature": "733615facee883fd93827501dc36bca5b308c9ae32f3fd5d65680adc41d6ea9d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/errors/connection-not-found.error.d.ts": {
+        "version": "1d11fd9d08bac4ad38b877b2dc82ffca057ad97f74d75f8142552d331620ba6c",
+        "signature": "1d11fd9d08bac4ad38b877b2dc82ffca057ad97f74d75f8142552d331620ba6c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/errors/timeout-error.d.ts": {
+        "version": "97346dc4a11c85fc73db967a162d0b555a8f2554d9093d3e80265caa948cfad4",
+        "signature": "97346dc4a11c85fc73db967a162d0b555a8f2554d9093d3e80265caa948cfad4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/errors/storage-exceeded.error.d.ts": {
+        "version": "6769916da72bb0e2669f90202706cc442ced59560b613ec8c17d0b74e8c5f760",
+        "signature": "6769916da72bb0e2669f90202706cc442ced59560b613ec8c17d0b74e8c5f760",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/errors/unhealthy-response-code.error.d.ts": {
+        "version": "0ff57e36e6b07da28931990a479764d22f5912c2ff4d228ee81e9b6661636aab",
+        "signature": "0ff57e36e6b07da28931990a479764d22f5912c2ff4d228ee81e9b6661636aab",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/errors/mongo-connection.error.d.ts": {
+        "version": "7f8002da1a03d9e7ad8ad4f8e11c0a5a9ca690bc00547f36cddae3502e1ba670",
+        "signature": "7f8002da1a03d9e7ad8ad4f8e11c0a5a9ca690bc00547f36cddae3502e1ba670",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/errors/index.d.ts": {
+        "version": "54af3c20298120a0a0d65976bdd155913a4b907869803c96fcc7ee099a786ef1",
+        "signature": "54af3c20298120a0a0d65976bdd155913a4b907869803c96fcc7ee099a786ef1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check-result.interface.d.ts": {
+        "version": "e72dba481f76e6b0d2179dd7e2c167ce20f7af69875b17430aa01efa9603d258",
+        "signature": "e72dba481f76e6b0d2179dd7e2c167ce20f7af69875b17430aa01efa9603d258",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check-executor.service.d.ts": {
+        "version": "9d3fc03b7e32bc266bd56501467fb787566201e0f27955d96683f326c3aafda6",
+        "signature": "9d3fc03b7e32bc266bd56501467fb787566201e0f27955d96683f326c3aafda6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check.service.d.ts": {
+        "version": "eb3a0d08cc71041e50056cd6dbb00f5a9408d432f81b64953e0dd668b2b2576e",
+        "signature": "eb3a0d08cc71041e50056cd6dbb00f5a9408d432f81b64953e0dd668b2b2576e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check.decorator.d.ts": {
+        "version": "08e8b6baf13aee2f47f2516435fd04c580d65ed6a1424ff245d0bd439cc58483",
+        "signature": "08e8b6baf13aee2f47f2516435fd04c580d65ed6a1424ff245d0bd439cc58483",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/health-check/index.d.ts": {
+        "version": "30329c7a00ed4aa178432be094b2a8a75e480ed937d9a3cb5e5dfe2e21d71338",
+        "signature": "30329c7a00ed4aa178432be094b2a8a75e480ed937d9a3cb5e5dfe2e21d71338",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@nestjs/terminus/dist/index.d.ts": {
+        "version": "05fc7244444f650c8f6185be6f5718dac9be3da2b72c43d92a6163cd51eab1b8",
+        "signature": "05fc7244444f650c8f6185be6f5718dac9be3da2b72c43d92a6163cd51eab1b8",
+        "affectsGlobalScope": false
+      },
+      "../src/health/health.controller.ts": {
+        "version": "e76c5afa476008587e08645246c3437e72a65873c8ea219e674e94d7aee4b026",
+        "signature": "e367f752aaa69c546b05c757bc0a256c23600aa35f0251a5ccc0a22c5ca3323f",
+        "affectsGlobalScope": false
+      },
       "../node_modules/@babel/types/lib/index.d.ts": {
         "version": "4606c6d854002b409744140a996a49c4a607c1eb0396855529836161892abef5",
         "signature": "4606c6d854002b409744140a996a49c4a607c1eb0396855529836161892abef5",
@@ -2597,6 +2777,133 @@
         "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/platform-express/multer/interfaces/files-upload-module.interface.d.ts"
       ],
+      "../node_modules/@nestjs/terminus/dist/errors/connection-not-found.error.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/errors/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/errors/connection-not-found.error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/errors/mongo-connection.error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/errors/storage-exceeded.error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/errors/timeout-error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/errors/unhealthy-response-code.error.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/errors/storage-exceeded.error.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/errors/timeout-error.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/errors/unhealthy-response-code.error.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check-executor.service.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check-result.interface.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check-result.interface.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check.service.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check-executor.service.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check-result.interface.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-check/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check-result.interface.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.decorator.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.service.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/mongoose.health.d.ts": [
+        "../node_modules/@nestjs/core/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts",
+        "../node_modules/@nestjs/terminus/dist/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/sequelize.health.d.ts": [
+        "../node_modules/@nestjs/core/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts",
+        "../node_modules/@nestjs/terminus/dist/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/typeorm.health.d.ts": [
+        "../node_modules/@nestjs/core/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk-health-options.type.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/utils/types.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk.health.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk-health-options.type.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts",
+        "../node_modules/check-disk-space/typings/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk-health-options.type.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk.health.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/dns/dns.health.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts",
+        "../node_modules/axios/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/http/http.health.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts",
+        "../node_modules/axios/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/database/mongoose.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/database/sequelize.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/database/typeorm.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/disk/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/dns/dns.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator-result.interface.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/http/http.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/memory/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/grpc.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/microservice.health.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/memory/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/memory/memory.health.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/memory/memory.health.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/grpc.health.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts",
+        "../node_modules/@nestjs/terminus/dist/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/utils/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/microservice.health.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/utils/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/errors/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/terminus-module-options.interface.d.ts",
+        "../node_modules/@nestjs/terminus/dist/terminus.module.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/terminus-module-options.interface.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/common/interfaces/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/terminus.module.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/terminus-module-options.interface.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/utils/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/utils/checkPackage.util.d.ts",
+        "../node_modules/@nestjs/terminus/dist/utils/promise-timeout.d.ts",
+        "../node_modules/@nestjs/terminus/dist/utils/types.d.ts"
+      ],
       "../node_modules/@types/babel__core/index.d.ts": [
         "../node_modules/@babel/parser/typings/babel-parser.d.ts",
         "../node_modules/@babel/types/lib/index.d.ts",
@@ -3168,6 +3475,10 @@
       ],
       "../src/app.service.ts": [
         "../node_modules/@nestjs/common/index.d.ts"
+      ],
+      "../src/health/health.controller.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/index.d.ts"
       ],
       "../src/main.ts": [
         "../node_modules/@nestjs/core/index.d.ts",
@@ -3862,6 +4173,133 @@
         "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/platform-express/multer/interfaces/files-upload-module.interface.d.ts"
       ],
+      "../node_modules/@nestjs/terminus/dist/errors/connection-not-found.error.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/errors/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/errors/connection-not-found.error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/errors/mongo-connection.error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/errors/storage-exceeded.error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/errors/timeout-error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/errors/unhealthy-response-code.error.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/errors/storage-exceeded.error.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/errors/timeout-error.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/errors/unhealthy-response-code.error.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check-executor.service.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check-result.interface.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check-result.interface.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check.service.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check-executor.service.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check-result.interface.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-check/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check-result.interface.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.decorator.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.service.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/mongoose.health.d.ts": [
+        "../node_modules/@nestjs/core/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts",
+        "../node_modules/@nestjs/terminus/dist/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/sequelize.health.d.ts": [
+        "../node_modules/@nestjs/core/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts",
+        "../node_modules/@nestjs/terminus/dist/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/typeorm.health.d.ts": [
+        "../node_modules/@nestjs/core/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk-health-options.type.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/utils/types.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk.health.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk-health-options.type.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts",
+        "../node_modules/check-disk-space/typings/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk-health-options.type.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk.health.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/dns/dns.health.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts",
+        "../node_modules/axios/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/http/http.health.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts",
+        "../node_modules/axios/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/database/mongoose.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/database/sequelize.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/database/typeorm.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/disk/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/dns/dns.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator-result.interface.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/http/http.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/memory/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/grpc.health.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/microservice.health.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/memory/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/memory/memory.health.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/memory/memory.health.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/grpc.health.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts",
+        "../node_modules/@nestjs/terminus/dist/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/utils/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/microservice.health.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/utils/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/errors/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/terminus-module-options.interface.d.ts",
+        "../node_modules/@nestjs/terminus/dist/terminus.module.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/terminus-module-options.interface.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/common/interfaces/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts",
+        "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/terminus.module.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/terminus/dist/terminus-module-options.interface.d.ts"
+      ],
+      "../node_modules/@nestjs/terminus/dist/utils/index.d.ts": [
+        "../node_modules/@nestjs/terminus/dist/utils/checkPackage.util.d.ts",
+        "../node_modules/@nestjs/terminus/dist/utils/promise-timeout.d.ts",
+        "../node_modules/@nestjs/terminus/dist/utils/types.d.ts"
+      ],
       "../node_modules/@types/babel__core/index.d.ts": [
         "../node_modules/@babel/parser/typings/babel-parser.d.ts",
         "../node_modules/@babel/types/lib/index.d.ts",
@@ -4424,6 +4862,9 @@
       ],
       "../src/app.controller.ts": [
         "../src/app.service.ts"
+      ],
+      "../src/health/health.controller.ts": [
+        "../node_modules/@nestjs/terminus/dist/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -4618,6 +5059,40 @@
       "../node_modules/@nestjs/platform-express/multer/interfaces/index.d.ts",
       "../node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts",
       "../node_modules/@nestjs/platform-express/multer/multer.module.d.ts",
+      "../node_modules/@nestjs/terminus/dist/errors/connection-not-found.error.d.ts",
+      "../node_modules/@nestjs/terminus/dist/errors/index.d.ts",
+      "../node_modules/@nestjs/terminus/dist/errors/mongo-connection.error.d.ts",
+      "../node_modules/@nestjs/terminus/dist/errors/storage-exceeded.error.d.ts",
+      "../node_modules/@nestjs/terminus/dist/errors/timeout-error.d.ts",
+      "../node_modules/@nestjs/terminus/dist/errors/unhealthy-response-code.error.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check-executor.service.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check-result.interface.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check.decorator.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check.error.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-check/health-check.service.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-check/index.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/mongoose.health.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/sequelize.health.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/database/typeorm.health.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk-health-options.type.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/disk.health.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/disk/index.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/dns/dns.health.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator-result.interface.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/health-indicator.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/http/http.health.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/index.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/memory/index.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/memory/memory.health.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/grpc.health.d.ts",
+      "../node_modules/@nestjs/terminus/dist/health-indicator/microservice/microservice.health.d.ts",
+      "../node_modules/@nestjs/terminus/dist/index.d.ts",
+      "../node_modules/@nestjs/terminus/dist/terminus-module-options.interface.d.ts",
+      "../node_modules/@nestjs/terminus/dist/terminus.module.d.ts",
+      "../node_modules/@nestjs/terminus/dist/utils/checkPackage.util.d.ts",
+      "../node_modules/@nestjs/terminus/dist/utils/index.d.ts",
+      "../node_modules/@nestjs/terminus/dist/utils/promise-timeout.d.ts",
+      "../node_modules/@nestjs/terminus/dist/utils/types.d.ts",
       "../node_modules/@types/babel__core/index.d.ts",
       "../node_modules/@types/babel__generator/index.d.ts",
       "../node_modules/@types/babel__template/index.d.ts",
@@ -4698,6 +5173,7 @@
       "../node_modules/@types/yargs-parser/index.d.ts",
       "../node_modules/@types/yargs/index.d.ts",
       "../node_modules/axios/index.d.ts",
+      "../node_modules/check-disk-space/typings/index.d.ts",
       "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
       "../node_modules/jest-diff/build/diffLines.d.ts",
       "../node_modules/jest-diff/build/index.d.ts",
@@ -4805,6 +5281,7 @@
       "../src/app.controller.ts",
       "../src/app.module.ts",
       "../src/app.service.ts",
+      "../src/health/health.controller.ts",
       "../src/main.ts"
     ]
   },
